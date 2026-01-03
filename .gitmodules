@@ -1,0 +1,13 @@
+[submodule "peregrine"]
+	path = peregrine
+	url = git@github.com:pdclab/peregrine.git
+[submodule "stats"]
+	path = stats
+	url = git@github.com:kthohr/stats.git
+[submodule "gcem"]
+	path = gcem
+	url = git@github.com:kthohr/gcem.git
+[submodule "SFAnalysis"]
+	path = SFAnalysis
+	url = git@github.com:adbroido/SFAnalysis.git
+c
