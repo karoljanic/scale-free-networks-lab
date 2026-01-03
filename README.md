@@ -7,7 +7,6 @@ This repository contains code and analysis for experiments on **scale-free netwo
 
 ## Main Files
 - `cpp-graph/`: C++ code for generating scale-free networks using the Barabási–Albert model and other distributions.
-- `gene-regulatory-network.ipynb`: Jupyter notebook containing code for analysis of simple gene regulatory networks.
 - `power-law-variations.ipynb`: Jupyter notebook for experiments on variations of power-law distributions in networks - Dash apps and visualizations.
 - `barabasi-albert-improvement.ipynb`: Jupyter notebook exploring improvements to the Barabási–Albert model.
 - `scale-free-networks-are-rare.ipynb`: Jupyter notebook analyzing the rarity of scale-free networks in real-world data (based on SFAnalysis data).
